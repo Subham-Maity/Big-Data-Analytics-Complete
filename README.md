@@ -11,3 +11,8 @@
 3. **What is Analytics?**
   - Dev Community: [Read Here](https://dev.to/codexam/what-is-analytics-4l62)
   - Hashnode: [Read Here](https://codexam.hashnode.dev/what-is-analytics)
+
+4. **Problem with Traditional System? Why We Don’t Use Traditional Tool? What Tools We Use for Big Data?**
+
+  - Dev Community: [Read Here](https://dev.to/codexam/problem-with-traditional-system-why-we-dont-use-traditional-tool-what-tools-we-use-for-big-data-496p)
+  - Hashnode: [Read Here](https://codexam.hashnode.dev/problem-with-traditional-system-why-we-dont-use-traditional-tool-what-tools-we-use-for-big-data)
