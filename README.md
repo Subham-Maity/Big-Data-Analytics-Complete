@@ -29,5 +29,9 @@
     - Hashnode: [Read Here](https://codexam.hashnode.dev/types-of-data-under-big-data-a-tabular-guide-with-examples)
 
 7. **Traditional vs Big Data**
-    - Dev Community: [Read Here](https://dev.to/codexam/traditional-vs-big-data-3g0m)
-    - Hashnode: [Read Here](https://codexam.hashnode.dev/traditional-vs-big-data)
+    - Dev Community: [Read Here](https://dev.to/codexam/traditional-vs-big-data-a-tabular-guide-with-examples-981)
+    - Hashnode: [Read Here](https://codexam.hashnode.dev/traditional-vs-big-data-a-tabular-guide-with-examples)
+
+8. **Terminologies used in Big Data Environments**
+    - Dev Community: [Read Here](https://dev.to/codexam/terminologies-used-in-big-data-environments-4007)
+    - Hashnode: [Read Here](https://codexam.hashnode.dev/terminologies-used-in-big-data-environments)
