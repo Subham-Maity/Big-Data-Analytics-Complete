@@ -35,3 +35,11 @@
 8. **Terminologies used in Big Data Environments**
     - Dev Community: [Read Here](https://dev.to/codexam/terminologies-used-in-big-data-environments-4007)
     - Hashnode: [Read Here](https://codexam.hashnode.dev/terminologies-used-in-big-data-environments)
+
+9. **Algorithm Trading**
+    - Dev Community: [Read Here](https://dev.to/codexam/what-is-algorithm-trading-1432)
+    - Hashnode: [Read Here](https://codexam.hashnode.dev/what-is-algorithm-trading)
+
+10. **Difference between Business Intelligence and Data Warehouse with Big Data**
+    - Dev Community: [Read Here](https://dev.to/codexam/difference-between-business-intelligence-and-data-warehouse-with-big-data-43i1)
+    - Hashnode: [Read Here](https://codexam.hashnode.dev/difference-between-business-intelligence-and-data-warehouse-with-big-data)
