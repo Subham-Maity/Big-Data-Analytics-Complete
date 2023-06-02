@@ -27,3 +27,7 @@
 6. **Types of Data Under Big data**
     - Dev Community: [Read Here](https://dev.to/codexam/types-of-data-under-big-data-a-tabular-guide-with-examples-5e70)
     - Hashnode: [Read Here](https://codexam.hashnode.dev/types-of-data-under-big-data-a-tabular-guide-with-examples)
+
+7. **Traditional vs Big Data**
+    - Dev Community: [Read Here](https://dev.to/codexam/traditional-vs-big-data-3g0m)
+    - Hashnode: [Read Here](https://codexam.hashnode.dev/traditional-vs-big-data)
