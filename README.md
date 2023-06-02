@@ -20,3 +20,6 @@
 5. **5 V's of big data**
     - Dev Community: [Read Here](https://codexam.hashnode.dev/5-vs-of-big-data-what-you-need-to-know)
     - Hashnode: [Read Here](https://dev.to/codexam/5-vs-of-big-data-what-you-need-to-know-4j1k)
+6. **Types of Data Under Big data**
+    - Dev Community: [Read Here](https://dev.to/codexam/types-of-data-under-big-data-a-tabular-guide-with-examples-5e70)
+    - Hashnode: [Read Here](https://codexam.hashnode.dev/types-of-data-under-big-data-a-tabular-guide-with-examples)
