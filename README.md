@@ -43,3 +43,7 @@
 10. **Difference between Business Intelligence and Data Warehouse with Big Data**
     - Dev Community: [Read Here](https://dev.to/codexam/difference-between-business-intelligence-and-data-warehouse-with-big-data-43i1)
     - Hashnode: [Read Here](https://codexam.hashnode.dev/difference-between-business-intelligence-and-data-warehouse-with-big-data)
+
+11. **Top Big Data Technologies**
+    - Dev Community: [Read Here](https://dev.to/codexam/top-big-data-technologies-3g0m)
+    - Hashnode: [Read Here](https://codexam.hashnode.dev/top-big-data-technologies)
