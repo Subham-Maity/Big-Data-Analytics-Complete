@@ -54,4 +54,8 @@
 
 
 
-## Data formats
+## Data formats 
+
+1. **What is Hadoop? How the Components of Hadoop Make it a Solution for Big Data?**
+    - Dev Community: [Read Here](https://dev.to/codexam/what-is-hadoop-how-the-components-of-hadoop-make-it-a-solution-for-big-data-31ob)
+    - Hashnode: [Read Here](https://codexam.hashnode.dev/what-is-hadoop-how-the-components-of-hadoop-make-it-a-solution-for-big-data)
