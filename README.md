@@ -17,7 +17,6 @@
   - Dev Community: [Read Here](https://dev.to/codexam/problem-with-traditional-system-why-we-dont-use-traditional-tool-what-tools-we-use-for-big-data-496p)
   - Hashnode: [Read Here](https://codexam.hashnode.dev/problem-with-traditional-system-why-we-dont-use-traditional-tool-what-tools-we-use-for-big-data)
 
-5. **5 v's of big data**
-   
-    - Dev Community: [Read Here](https://dev.to/codexam/5-v-s-of-big-data-1j0m)
-    - Hashnode: [Read Here](https://codexam.hashnode.dev/5-vs-of-big-data)
+5. **5 V's of big data**
+  - Dev Community: [Read Here](https://codexam.hashnode.dev/5-vs-of-big-data-what-you-need-to-know)
+  - Hashnode: [Read Here](https://dev.to/codexam/5-vs-of-big-data-what-you-need-to-know-4j1k)
