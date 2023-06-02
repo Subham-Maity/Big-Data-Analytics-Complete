@@ -47,3 +47,15 @@
 11. **Top Big Data Technologies**
     - Dev Community: [Read Here](https://dev.to/codexam/top-big-data-technologies-3g0m)
     - Hashnode: [Read Here](https://codexam.hashnode.dev/top-big-data-technologies)
+
+12. **Top Big Data Technologies You Should Know**
+    - Dev Community: [Read Here](https://dev.to/codexam/top-big-data-technologies-you-should-know-2jb4)
+    - Hashnode: [Read Here](https://codexam.hashnode.dev/top-big-data-technologies-you-should-know)
+
+13. **What is Crowdsourcing Analytics in Big Data?**
+    - Dev Community: [Read Here](https://dev.to/codexam/what-is-crowdsourcing-analytics-in-big-data-3j0m)
+    - Hashnode: [Read Here](https://codexam.hashnode.dev/what-is-crowdsourcing-analytics-in-big-data)
+
+14. **What is Crowdsourcing Analytics in Big Data?**
+    - Dev Community: [Read Here](https://dev.to/codexam/what-is-crowdsourcing-analytics-in-big-data-3j0mhttps://dev.to/codexam/what-is-crowdsourcing-analytics-in-big-data-3h5h)
+    - Hashnode: [Read Here](https://codexam.hashnode.dev/what-is-crowdsourcing-analytics-in-big-data)
